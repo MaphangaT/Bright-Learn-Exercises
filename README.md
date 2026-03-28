@@ -1,2 +1,2 @@
-# Bright-Learn-Exercises
-This repository is a collection of fundamental SQL exercises 
+# Bright-Learn-Exercise
+Data Analytics fundamental SQL exercises 
